@@ -1,0 +1,2 @@
+# Juego_candy
+entretenimiento
